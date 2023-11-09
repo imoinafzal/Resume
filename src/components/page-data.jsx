@@ -17,7 +17,7 @@ export const aboutMe = {
   title: "About Me",
   body: [
     "Being an Accounting and Finance graduate with a strong analytical background, I have embarked on an exciting journey of transition into the dynamic field of web development. My commitment to continuous growth and improvement has led me to this exciting field which allows for creativity and innovation. I have learned some key web development technologies like HTML, CSS, Javascript, NodeJS and various frameworks or libraries like React and NextJs. I am committed to creating innovative and user-friendly web applications.",
-    "In my leisure time, I love gardening, reading, and spending time with my friends and family.I love embracing new challenges and am eager to contribute my skills to dynamic teams and innovative projects. I believe that my determination, can-do attitude, and hard work make me a true asset to any team.",
+    "I love spending my leisure time in gardening, book-reading, and spending time with my friends and family. I love embracing new challenges and am eager to contribute my skills to dynamic teams and innovative projects. I believe that my determination, can-do attitude, and hard work make me a true asset to any team and company.",
   ],
 };
 
@@ -31,11 +31,11 @@ export const skills = {
     { icon: "⌛️", text: "Time management" },
   ],
   hard: [
-    { icon: "💻", text: "NEXT Js" },
-    { icon: "ʦ", text: "TypeScript" },
+    { icon: "💻", text: "Next.js" },
+    { icon: "ʦ", text: "Typescript" },
     { icon: "🚀", text: "React" },
-    { icon: "💾", text: "Postgres SQL" },
-    { icon: "💾", text: "Node Js" },
+    { icon: "💾", text: "PostgreSQL" },
+    { icon: "💾", text: "Node.js" },
     { icon: "📈", text: "Data Structures and Algorithms" },
   ],
 };
